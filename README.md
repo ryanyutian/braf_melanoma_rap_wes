@@ -39,5 +39,5 @@ Where relevant, custom bash scripts, command notes and software versions are des
 
 For manuscript-related questions, please contact the corresponding authors:
 
-- Anthony M. Joshua — Anthony.joshua@svha.org.au
+- Anthony M. Joshua — anthony.joshua@svha.org.au
 - Trevor J. Pugh — trevor.pugh@uhn.ca
