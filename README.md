@@ -32,8 +32,12 @@ External tools used in the study include:
 - GISTIC
 - IGV
 
-Where relevant, custom bash scripts, command notes and software versions are described in the repository.
+Where relevant, custom bash scripts, command notes, and software versions are described in the repository.
 
+## Repository structure
+
+- `somatic_variant_workflow/` — representative example scripts and notes for the Mutect2 -> vcf2maf -> OncoKB workflow
+- `figure_scripts/` — notebooks and scripts used for downstream analysis, supplementary table compilation, and figure generation
 
 ## Contact
 
